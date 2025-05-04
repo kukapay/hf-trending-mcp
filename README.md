@@ -7,6 +7,7 @@ It provides tools and prompts to fetch trending content, search for specific ite
 ![License](https://img.shields.io/badge/license-MIT-green.svg) 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) 
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+[![smithery badge](https://smithery.ai/badge/@kukapay/hf-trending-mcp)](https://smithery.ai/proto/@kukapay/hf-trending-mcp)
 
 
 ## Features
@@ -155,3 +156,4 @@ Summary: Vision models like ViT are trending, likely due to recent advancements 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
