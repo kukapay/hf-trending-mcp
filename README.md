@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-hf-trending-mcp-badge.png)](https://mseep.ai/app/kukapay-hf-trending-mcp)
+
 # HF Trending MCP Server
 
 An MCP server that tracks trending models, datasets, and spaces on [Hugging Face](https://huggingface.co). 
